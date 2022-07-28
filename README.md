@@ -1,5 +1,5 @@
 # Chat Server
-Simple chat system and sockets TCP in python.
+Simple chat system with sockets TCP.
 
 ## Course
 This project was developed under the Distributed Computing course of [University of Aveiro](https://www.ua.pt/).
