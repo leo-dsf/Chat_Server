@@ -15,6 +15,7 @@ $ pip install -r requirements.txt
 ```
 
 ## How To Run
+Run in three different terminal:
 * Run Server:
 ```console
 $ python3 server.py
@@ -29,6 +30,7 @@ $ python3 bar.py
 ```
 
 ## How To Run Tests
+Run in two different terminal:
 * Run Server:
 ```console
 $ python3 server.py
