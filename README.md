@@ -6,40 +6,40 @@ This project was developed under the Distributed Computing course of [University
 
 ## Installation
 * Clone the repository:
-```bash
+```console
 $ git clone https://github.com/leo-dsf/Chat_Server
 ```
 * Install requirements:
-```bash
+```console
 $ pip install -r requirements.txt
 ```
 
 ## How To Run
 * Run Server:
-```bash
+```console
 $ python3 server.py
 ```
 * Run Foo client:
-```bash
+```console
 $ python3 foo.py
 ```
 * Run Bar client:
-```bash
+```console
 $ python3 bar.py
 ```
 
 ## How To Run Tests
 * Run Server:
-```bash
+```console
 $ python3 server.py
 ```
 * Run Tests:
-```bash
+```console
 $ pytest
 ```
 
 ## Author
-* **Leonardo Flórido**: [leo-dsf](https://github.com/leo-dsf)
+* **Leonardo Flórido** - [leo-dsf](https://github.com/leo-dsf)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
