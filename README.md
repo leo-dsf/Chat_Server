@@ -9,7 +9,7 @@ This project was developed under the Distributed Computing course of [University
 ```bash
 $ git clone https://github.com/leo-dsf/Chat_Server
 ```
-* Install requirements
+* Install requirements:
 ```bash
 $ pip install -r requirements.txt
 ```
